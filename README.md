@@ -1,2 +1,2 @@
 # Vyond Legacy Offline Installer
- An installer that allows you to install Vyond Legacy Offline Without extracting the zip file.
+ An installer that allows you to install Vyond Legacy Offline With extracting the zip file.
